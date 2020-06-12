@@ -4,11 +4,11 @@
 Usages :
   - check the caches : 
   
-        sudo python clean.py -s
+        sudo python cleaner.py -s
     
   - Clear the caches : 
   
-        sudo python clean.py -c
+        sudo python cleaner.py -c
     
    
 ### This sript will clear the 
