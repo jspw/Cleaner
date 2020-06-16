@@ -2,7 +2,15 @@
 ## A python script to clean unnecessary and caches in Debian based Linux OS 
 
 Usages :
-  - check the caches : 
+  - Clone repo :
+  
+        git clone https://github.com/jspw/Cleaner.git
+        
+  - Chnage directory : 
+  
+        cd Cleaner
+        
+  - Check the caches : 
   
         sudo python cleaner.py -s
     
